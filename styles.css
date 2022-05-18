@@ -1,10 +1,10 @@
 h1 {
     background-color: green;
 }
-}
 body {
-    background-image: url(https://i.pinimg.com/originals/88/7e/96/887e96079509b516e9946544aac5f4b4.gif);
+    background-image: url(https://i.pinimg.com/originals/88/7e/96/887e96079509b516e9946544aac5f4b4.gif)
 }
-h3 {
+h2 {
+    border: 5px solid green;
     box-shadow: 10px 10px blue;
 }
